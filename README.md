@@ -1,4 +1,14 @@
-# 4Ps
+
+## OOP Vehicle and Cars
+
+Learning outcomes:
+- Create a class
+- Create inheritance of class
+- Abstraction
+- Inheritance 
+- Polymorphism
+- After/Later Encapsulation 
+
 
 ##  Abstraction
 Is hiding complexity from the user and exposing only useful/necessary parts.
