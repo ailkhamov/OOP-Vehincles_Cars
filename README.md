@@ -24,4 +24,13 @@ our food will warm
 The ability to inherit behavior and charactersitcs from a parent class.
 
 
+## Polymorphism 
+
+Ability to change the form of methods and or charectersics of subclasses
+and objects
+
+## Encapsulation
+
+The ability to restrict visibility and access to methods or 
+characterstics
 
